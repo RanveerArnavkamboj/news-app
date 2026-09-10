@@ -89,11 +89,14 @@
 }
 
 .link {
+    align-self: center;
     background-color: #ff6b35;
     text-decoration: none;
     color: white;
     padding: 10px 18px;
     border-radius: 8px;
+    border: none;
+    cursor: pointer;
 }
 
 .img {
@@ -109,4 +112,3 @@
     .card {
         flex-direction: column;
     }
-}
