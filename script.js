@@ -9,7 +9,7 @@ let all = document.querySelector(".all")
 let pg 
 let pgurl
 let now = new Date()
-let apikey = "pub_dee419185da942f2806a710236a074ac"
+let apikey = "pub_742192a928f04008b6220b125c5064a3"
 console.log(apikey)
 
 function geturl(){
